@@ -12,6 +12,10 @@ Este repositorio está diseñado para proporcionar a los estudiantes una guía p
 
 Tutorial: Una guía detallada paso a paso sobre el uso de la máquina CNC.
 La Playlist para el tutorial sería el siguiente: https://www.youtube.com/playlist?list=PLk_hX-w3gjPRr1mZjQvEy4xs8VZHfR9jb
+PDFs de Guía: 
+Parte#1: https://bit.ly/CNCparte1
+Parte#2: https://bit.ly/CNCparte2
+Parte#3: https://bit.ly/CNCparte3
 
 Archivos Necesarios: Archivos de configuración, ejemplos de código G y otros recursos esenciales.
 
